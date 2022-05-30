@@ -1,0 +1,1 @@
+A interface do usuário – user interface (UI) – é o espaço onde os usuários interagem com um site, programa, aplicativo, etc. Isso pode incluir telas de exibição, um mouse, teclados e a aparência de uma área de trabalho. O design da interface do usuário deve ser o mais amigável possível para pessoas com deficiência.

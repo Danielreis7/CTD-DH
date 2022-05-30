@@ -1,0 +1,5 @@
+Git:
+O fluxo de trabalho básico Git é algo assim: Você modifica  arquivos no seu diretório de trabalho. Você prepara os arquivos, adicionando imagens deles à sua área de preparo. Você faz commit, o que leva o arquivos como eles estão na área de preparo e armazena  essa imagens de forma permanente para o diretório do Git.
+
+Vs code:
+O Visual Studio Code (VS Code) é um editor de código de código aberto desenvolvido pela Microsoft. A saber, ele está disponível para Windows, Mac e Linux. É criado com Electron, ferramenta criada pelo GitHub que permite a criação de softwares Desktop com HTML, CSS e JavaScript.

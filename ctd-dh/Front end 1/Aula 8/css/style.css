@@ -1,0 +1,52 @@
+*{box-sizing: border-box}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+body {
+   
+    background-color: #131313;
+}
+
+
+h1 {
+    text-align: center;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    background-color: #e6bd09;
+}
+
+.media-picture {
+    background-image: url(../img/capa\ Vingadores.jpg);
+    height: 400px;
+    background-size: cover;
+    background-position: inherit;
+    border: double steelblue;
+}
+.review-score {
+    background-color: #e6bd09;
+    color: white;
+    padding: 12px;
+    border-radius: 2cm;
+    font-size: 20px;
+    border: double steelblue;
+    position: relative;
+    bottom: 10px;
+    left: 20px;
+
+}
+
+h2 {
+    color:steelblue;   
+}
+
+p {
+    color:#bdbdbd;
+    font-family: 'roboto', sans-serif; 
+}
+
+a {
+    color: #e6bd09;
+}
+
+
+
